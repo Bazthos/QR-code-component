@@ -84,9 +84,12 @@ p{
 }
 
 @media screen and (min-width: 980px) {
-    .card > img{
+    main .card{
         width: 20rem;
-        height: 20rem;
+    }
+    .card > img{
+        width: 19rem;
+        height: 19rem;
     }
 }
 
